@@ -1,43 +1,64 @@
-# Hi, I'm DeXon 👋
+<div align="center">
 
-Systems & automation developer based in Spain. I build internal tooling, license management platforms, and home automation workflows.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+DeXon+%F0%9F%91%8B;Systems+%26+Automation+Developer;Building+tools+that+actually+work." alt="Typing SVG" />
+
+<br/>
+
+[![X](https://img.shields.io/badge/@DeXon18-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/DeXon18)
+[![GitHub followers](https://img.shields.io/github/followers/DeXon18?style=flat-square&color=161b22&labelColor=161b22&logo=github&logoColor=white)](https://github.com/DeXon18)
+![Location](https://img.shields.io/badge/España-EU-red?style=flat-square&logo=googlemaps&logoColor=white)
+
+</div>
 
 ---
 
 ## 🧑‍💻 About me
 
-- 🏢 Working at **DXpro**
-- 🔧 Building tools around **Siemens / Moldex3D** ecosystems (NX, Simcenter 3D, FlexLM)
-- 🏠 Home automation enthusiast — **Home Assistant** + **n8n** workflows
-- 🚀 Currently developing **WeeklyPlatter** — a family meal planning web app
-- 🖥️ Self-hosted infrastructure on **Proxmox VE**
+- 🏢 &nbsp;Working at **DXpro** (España)
+- 🔧 &nbsp;Building internal tooling for **Siemens NX / Simcenter 3D** and **Moldex3D** ecosystems
+- 🏠 &nbsp;Home automation enthusiast — **Home Assistant** + **n8n** workflows
+- 🖥️ &nbsp;Self-hosted infrastructure on **Proxmox VE**
+- 🚀 &nbsp;Currently building **WeeklyPlatter** — a family meal planning web app
 
 ---
 
 ## 🛠️ Tech stack
 
-![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-E54D2E?style=flat-square&logo=n8n&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,js,nodejs,html,css,linux,git&theme=dark&perline=8)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+**Also working with:** &nbsp;`Home Assistant` &nbsp;`n8n` &nbsp;`Proxmox VE` &nbsp;`Siemens FlexLM` &nbsp;`YAML` &nbsp;`PowerShell`
 
 ---
 
-## 📦 Featured projects
+## 📊 GitHub stats
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Proxmox-Tool-Suite](https://github.com/DeXon18/Proxmox-Tool-Suite) | Interactive Bash toolkit for Proxmox VE — LXC management, cleanup, bind mounts & system maintenance | Shell |
-| [DX-License-Manager](https://github.com/DeXon18/DX-License-Manager) | Web portal for centralized Siemens + Moldex3D software license management | JavaScript |
-| [Siemens-License-Manager](https://github.com/DeXon18/Siemens-License-Manager) | PowerShell utility for Siemens NX / Simcenter 3D — Cloud/Local switching & auto version detection | PowerShell |
-| [DX-LMTools-Auditor](https://github.com/DeXon18/DX-LMTools-Auditor) | Audit tool for Siemens FlexLM license usage with centralized reporting and compliance tracking | HTML/JS |
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DeXon18&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="DeXon18 GitHub Stats"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeXon18&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages"/>
+
+</div>
 
 ---
 
-## 📍 Location
+## 📦 Projects
 
-España 🇪🇸 &nbsp;|&nbsp; UTC +02:00 &nbsp;|&nbsp; [@DeXon18](https://twitter.com/DeXon18)
+| | Project | Description | Stack |
+|:---:|---------|-------------|:-----:|
+| 🖥️ | [**Proxmox-Tool-Suite**](https://github.com/DeXon18/Proxmox-Tool-Suite) | Interactive Bash toolkit for Proxmox VE — LXC management, cleanup, bind mounts & system maintenance | `Shell` |
+| 🔑 | [**DX-License-Manager**](https://github.com/DeXon18/DX-License-Manager) | Web portal for centralized Siemens + Moldex3D software license management | `JavaScript` |
+| ⚙️ | [**Siemens-License-Manager**](https://github.com/DeXon18/Siemens-License-Manager) | PowerShell utility for Siemens NX / Simcenter 3D — Cloud/Local switching & auto version detection | `PowerShell` |
+| 📊 | [**DX-LMTools-Auditor**](https://github.com/DeXon18/DX-LMTools-Auditor) | Audit & monitor Siemens FlexLM license usage with centralized reporting and compliance tracking | `HTML` |
+
+---
+
+<div align="center">
+  <sub>Building things at DXpro · España 🇪🇸</sub>
+</div>
