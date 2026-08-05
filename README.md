@@ -11,17 +11,6 @@
 # 👋 ¡Hola! Soy DeXon
 
 ### Software industrial, automatización e infraestructura self-hosted
-
-<p>
-  <a href="https://www.linkedin.com/in/oskar-blazquez/">
-    <img src="https://img.shields.io/badge/LinkedIn-Oskar%20Blazquez-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/DeXon18">
-    <img src="https://img.shields.io/badge/GitHub-DeXon18-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <img src="https://img.shields.io/badge/Ubicación-España-AA151B?style=flat-square" alt="España">
-</p>
-
 </div>
 
 ---
